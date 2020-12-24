@@ -7,3 +7,5 @@ Carots
 Avocado
 Tomato
 Brade
+Salts
+Table Oil
